@@ -64,7 +64,8 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![](Screenshot 2026-10-26 225713.jpg)
+<img width="1917" height="1007" alt="Screenshot 2026-10-26 225713" src="https://github.com/user-attachments/assets/51d89445-997b-4037-b6c1-ea9953635643" />
+
 
 Additional target machines can be added to the same virtual network in future projects.
 
@@ -99,7 +100,8 @@ Configuration:
 - **IPv4 Prefix:** 10.0.0.0/24
 - **DHCP:** Enabled
 
-![](Screenshot 2026-10-26 225648.png)
+<img width="1917" height="1023" alt="Screenshot 2026-10-26 225648" src="https://github.com/user-attachments/assets/3e3cd0e6-283f-4562-b34a-6e951358463e" />
+
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity. This allows future target VMs to be added to the lab.
 
@@ -113,7 +115,8 @@ A new virtual machine was created for Kali Linux. The hardware and network setti
 - **Processors:** 4
 - **Network Adapter:** Attached to NAT Network (`NatNetwork`)
 
-![](Screenshot 2026-10-26 225623.png)
+<img width="1907" height="1016" alt="Screenshot 2026-10-26 225623" src="https://github.com/user-attachments/assets/33791f9e-b8da-4ec1-9e58-d81690f96fb1" />
+
 
 ---
 
@@ -130,8 +133,8 @@ Netmask:     24
 Gateway:     10.0.0.1
 DNS servers: 10.0.0.1
 ```
+<img width="1917" height="1030" alt="Screenshot 2026-10-26 225738" src="https://github.com/user-attachments/assets/8e091d19-4828-4e5b-9e94-0f0598d9538d" />
 
-![](Screenshot 2026-10-26 225738.jpg)
 
 ---
 
@@ -166,7 +169,8 @@ sudo nmcli connection down "Wired connection 1"
 sudo nmcli connection up "Wired connection 1"
 ```
 
-![](Screenshot 2026-10-26 225105.jpg)
+<img width="1917" height="1011" alt="Screenshot 2026-10-26 225105" src="https://github.com/user-attachments/assets/04922e3b-0fe5-481c-a75b-2ea04d3882b0" />
+
 
 After running these commands, the connection successfully activated and internet connectivity was restored.
 
@@ -197,5 +201,5 @@ This laboratory is intended strictly for education purposes only.
 
 # 👤 Author
 
-**Praful Ramchandra Vadar (प्रफुल वादर)**
-Cybersecurity Diploma Student | Pune, Maharashtra
+**Praful Ramchandra Vadar**
+Cybersecurity Diploma Student , Maharashtra<img width="1917" height="1007" alt="Screenshot 2026-10-26 225713" src="https://github.com/user-attachments/assets/0de37659-4d40-4749-b2cf-b259bc596624" />
