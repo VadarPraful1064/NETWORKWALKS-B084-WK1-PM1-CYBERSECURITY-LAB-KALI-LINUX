@@ -202,4 +202,4 @@ This laboratory is intended strictly for education purposes only.
 # 👤 Author
 
 **Praful Ramchandra Vadar**
-Cybersecurity Diploma Student , Maharashtra<img width="1917" height="1007" alt="Screenshot 2026-10-26 225713" src="https://github.com/user-attachments/assets/0de37659-4d40-4749-b2cf-b259bc596624" />
+Cybersecurity Diploma Student , Maharashtra
